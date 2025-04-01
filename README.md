@@ -1,6 +1,6 @@
 💻 IamChibi | Portafolio Web Personal
 Este es un proyecto web desarrollado con Flask, HTML y CSS.
-Su objetivo es presentar información sobre mí, mis intereses y algunos de mis proyectos.
+Su objetivo es presentar un poco de información sobre mí, mis intereses y algunos de mis proyectos.
 ✨ ¡Próximamente se agregarán más proyectos!
 
 🌐 Contenido del sitio
